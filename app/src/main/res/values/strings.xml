@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Age calculator Strings-->
+
+    <string name="date_today">Today Date</string>
+    <string name="display_date">8-10-2016</string>
+    <string name="birthday_date">Birthday Date</string>
+    <string name="calculation_text">Calculate</string>
+    <string name="clear_results">Clear</string>
+    <string name="current_age">Age</string>
+    <string name="years_number">years</string>
+    <string name="months_number">Months</string>
+    <string name="days_number">Days</string>
+    <string name="next_birthday">Next Birthday</string>
+    <string name="age_analysis">Age Analysis</string>
+    <string name="total_years">Total Years</string>
+    <string name="zero">0</string>
+    <string name="total_months">Total Month</string>
+    <string name="total_days">Total Days</string>
+    <string name="total_hours">Hours</string>
+    <string name="total_minutes">Minuts</string>
+    <string name="total_seconds">Seconds</string>
+    <string name="total_weeks">Total Weeks</string>
+    <string name="title_activity_result_calculation">ResultCalculationActivity</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-9719705343547740/8785547716</string>
+    <string name="intercitial_ad_unit_id">ca-app-pub-9719705343547740/1262280914</string>
+    <string name="native_ad_unit_id">ca-app-pub-9719705343547740/2739014118</string>
+
+
+</resources>
